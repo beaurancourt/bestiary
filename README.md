@@ -8,7 +8,9 @@ See the latest compiled build here: [http://chisaipete.github.io/bestiary/](http
 * 2/27/16: Added monsters from the SRD
 
 ## To Do
-* Sort and filter creatures by various abilities, stats, conditions, CR, etc.
+* Fix sort and filtering creatures by various type, CR, level, etc.
+* Sort by location, sub-types, etc.
+* More Monsters from more source!
 
 ## Structure
 Creatures can be found inside `_posts/`. Each creature gets its own post, written and stored as a [Markdown](http://daringfireball.net/projects/markdown/basics) file. The date is arbitrary and never displayed, but still necessary for [Jekyll](http://jekyllrb.com) to process the posts properly.
