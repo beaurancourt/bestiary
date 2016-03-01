@@ -24,4 +24,4 @@ I've edited _config.yml for my own build purposes, but if you've got [Jekyll](ht
 
 ## Thanks
 
-Shoutout to ephe http://ephe.github.io/grimoire from whom I've shamelessly borrowed the majority of his codebase
+Shoutout to Saph of http://ephe.github.io/grimoire from whom I've shamelessly borrowed the majority of the codebase
