@@ -19,7 +19,7 @@
 - name: Humanoids
   tag: humanoid
 - name: Monstrosities
-  tag: monstrositie
+  tag: monstrosity
 - name: Oozes
   tag: ooze
 - name: Plants
