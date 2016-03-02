@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swarm of Insects"
+title: "Swarm of Centipedes"
 date: 2016-02-29
 tags: [medium, swarm, cr1/2]
 ---
@@ -31,4 +31,4 @@ tags: [medium, swarm, cr1/2]
 
 **Actions** 
 
-***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. A creature reduced to 0 hit points by a swarm of centipedes is stable but poisoned for 1 hour, even after regaining hit points, and paralyzed while poisoned in this way.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fungi Shrieker"
+title: "Shrieker"
 date: 2016-02-29
 tags: [medium, plant, cr0]
 ---

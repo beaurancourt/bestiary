@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swarm of Insects"
+title: "Swarm of Spiders"
 date: 2016-02-29
 tags: [medium, swarm, cr1/2]
 ---
@@ -28,6 +28,12 @@ tags: [medium, swarm, cr1/2]
 **Challenge** 1/2 (100 XP)
 
 ***Swarm.*** The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points. 
+
+***Spider Climb.*** The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. 
+
+***Web Sense.*** While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web. 
+
+***Web Walker.*** The swarm ignores movement restrictions caused by webbing. 
 
 **Actions** 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Golems Clay Golem"
+title: "Clay Golem"
 date: 2016-02-29
 tags: [large, construct, cr9]
 ---

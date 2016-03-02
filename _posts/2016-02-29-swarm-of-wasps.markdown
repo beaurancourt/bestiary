@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swarm of Insects"
+title: "Swarm of Wasps"
 date: 2016-02-29
 tags: [medium, swarm, cr1/2]
 ---
@@ -11,7 +11,7 @@ tags: [medium, swarm, cr1/2]
 
 **Hit Points** 22 (5d8)
 
-**Speed** 20 ft., climb 20 ft.
+**Speed** 5 ft., fly 30 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
