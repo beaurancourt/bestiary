@@ -10,7 +10,7 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <script src="https://use.typekit.net/dle2jou.js"></script>
     <script src="{{ "/js/jets.min.js" | prepend: site.baseurl }}"></script>
-    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script>try{Typekit.load();}catch(e){}</script>
     <script type="text/javascript">
     	function menuClick() {
     		if ( document.getElementById("menu").className.match(/(?:^|\s)show(?!\S)/) ) {
