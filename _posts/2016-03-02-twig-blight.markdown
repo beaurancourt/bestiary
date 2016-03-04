@@ -2,7 +2,7 @@
 layout: post
 title: "Twig Blight"
 date: 2016-03-02
-tags: [small, [plant, cr1/8]
+tags: [small, plant, cr1/8]
 ---
 
 **Small plant, neutral evil**
