@@ -26,8 +26,10 @@ tags: [medium, humanoid, cr1]
 **Challenge** 1 (200 XP)
 
 ***Spellcasting.*** The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spells (an asterisked spell appears in this appendix):
-Cantrips (at will): gust,* light, message, ray of frost
-1st level (2 slots): expeditious retreat, feather fall
+
+*Cantrips (at will):* gust,* light, message, ray of frost
+
+*1st level (2 slots):* expeditious retreat, feather fall
 
 **Actions**
 

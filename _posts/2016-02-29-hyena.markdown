@@ -25,8 +25,8 @@ tags: [medium, beast, cr0]
 
 **Challenge** 0 (10 XP)
 
-Pack Tactics. The hyena has advantage on an attack roll against a creature if at least one of the hyena’s allies is within 5 feet of the creature and the ally isn’t incapacitated. 
+***Pack Tactics.*** The hyena has advantage on an attack roll against a creature if at least one of the hyena’s allies is within 5 feet of the creature and the ally isn’t incapacitated. 
 
 **Actions**
 
-Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.
+***Bite.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.

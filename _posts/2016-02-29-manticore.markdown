@@ -23,7 +23,7 @@ tags: [large, monstrosity, cr3]
 
 **Challenge** 3 (700 XP)
 
-***Tail Spike Regrowth.*** The manticore has twenty-­‐four tail spikes. Used spikes regrow when the manticore finishes a long rest. 
+***Tail Spike Regrowth.*** The manticore has twenty‐four tail spikes. Used spikes regrow when the manticore finishes a long rest. 
 
 **Actions**
 
