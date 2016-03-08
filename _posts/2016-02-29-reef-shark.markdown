@@ -25,8 +25,10 @@ tags: [medium, beast, cr1/2]
 
 **Challenge** 1/2 (100 XP)
 
-Pack Tactics. The shark has advantage on an attack roll against a creature if at least one of the shark’s allies is382 within 5 feet of the creature and the ally isn’t incapacitated. Water Breathing. The shark can breathe only underwater. 
+***Pack Tactics.*** The shark has advantage on an attack roll against a creature if at least one of the shark’s allies is within 5 feet of the creature and the ally isn’t incapacitated. 
+
+***Water Breathing.*** The shark can breathe only underwater. 
 
 **Actions**
 
-Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-­‐‑grown specimen measures 6 to 10 feet long.
+***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long.

@@ -23,8 +23,10 @@ tags: [small, beast, cr0]
 
 **Challenge** 0 (10 XP)
 
- Illumination. The beetle sheds bright light in a 10-­‐foot radius and dim light for an additional 10 feet.370 
+***Illumination.*** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet. 
 
 **Actions** 
 
-Bite. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) slashing damage. A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle’s glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
+***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) slashing damage. 
+
+A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle’s glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
