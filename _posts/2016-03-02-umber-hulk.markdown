@@ -14,7 +14,7 @@ tags: [large, monstrosity, cr5]
 **Speed** 30 ft., burrow 20 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 20 (+5) | 13 (+1) | 16 (+3) | 9 (-1) | 10 (+0) | 10 (+0) |
 
 **Senses** darkvision 120 ft., tremorsense 60 ft., passive Perception 10

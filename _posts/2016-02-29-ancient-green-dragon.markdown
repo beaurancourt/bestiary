@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: "Ancient Green Dragon"
@@ -16,7 +14,7 @@ tags: [gargantuan, dragon, cr22]
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
 
 **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11 

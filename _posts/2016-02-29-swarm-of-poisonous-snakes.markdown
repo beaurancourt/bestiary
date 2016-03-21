@@ -14,7 +14,7 @@ tags: [medium, swarm, cr2]
 **Speed** 30 ft., swim 30 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 8 (−1) | 18 (+4) | 11 (+0) | 1 (−5) | 10 (+0) | 3 (−4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing 

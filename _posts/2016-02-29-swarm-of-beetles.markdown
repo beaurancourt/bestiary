@@ -14,7 +14,7 @@ tags: [medium, swarm, cr1/2]
 **Speed** 20 ft., climb 20 ft., burrow 5 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 3 (−4) | 13 (+1) | 10 (+0) | 1 (−5) | 7 (−2) | 1 (−5) |
 
 **Damage Resistances** bludgeoning, piercing, slashing 
