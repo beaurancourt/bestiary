@@ -2,7 +2,7 @@
 layout: post
 title: "Gnoll Pack Lord"
 date: 2016-03-02
-tags: [medium, humanoid, cr]
+tags: [medium, humanoid, cr2]
 ---
 
 **Medium humanoid (gnoll), chaotic evil**
@@ -14,7 +14,7 @@ tags: [medium, humanoid, cr]
 **Speed** 30 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 16 (+3) | 14 (+2) | 13 (+1) | 8 (-1) | 11 (+0) | 9 (-1) |
 
 **Senses** darkvision 60 ft., passive Perception 10

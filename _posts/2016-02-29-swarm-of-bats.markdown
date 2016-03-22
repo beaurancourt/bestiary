@@ -14,7 +14,7 @@ tags: [medium, swarm, cr1/4]
 **Speed** 0 ft., fly 30 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 5 (−3) | 15 (+2) | 10 (+0) | 2 (−4) | 12 (+1) | 4 (−3) |
 
 **Damage Resistances** bludgeoning, piercing, slashing 

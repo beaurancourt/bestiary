@@ -14,7 +14,7 @@ tags: [medium, humanoid, cr4]
 **Speed** 30 ft., swim 30 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 11 (+0) | 12 (+1) | 16 (+3) | 14 (+2) | 10 (+0) | 17 (+3) |
 
 **Skills** Arcana +4, Deception +5, Insight +2, Persuasion +5
