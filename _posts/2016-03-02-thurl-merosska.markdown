@@ -14,7 +14,7 @@ tags: [medium, humanoid, cr3]
 **Speed** 30 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 10 (+0) | 15 (+2) |
 
 **Skills** Animal Handling +2, Athletics +5, Deception +4,

@@ -14,7 +14,7 @@ tags: [medium, elemental, cr6]
 **Speed** 15 ft. (30 ft. when rolling, 60 ft. rolling downhill)
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 20 (+5) | 14 (+2) | 20 (+5) | 11 (+0) | 12 (+1) | 11 (+0) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons

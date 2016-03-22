@@ -14,7 +14,7 @@ tags: [large, elemental, cr3]
 **Speed** 0 ft., swim 60 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 17 (+3) | 16 (+3) | 13 (+1) | 11 (+0) | 10 (+0) | 10 (+0) |
 
 **Damage Resistances** fire; bludgeoning, piercing, and slashing from nonmagical weapons

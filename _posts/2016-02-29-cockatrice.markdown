@@ -14,7 +14,7 @@ tags: [small, monstrosity, cr1/2]
 **Speed** 20 ft., fly 40 ft.271
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 6 (−2) | 12 (+1) | 12 (+1) | 2 (−4) | 13 (+1) | 5 (−3) |
 
 **Senses** darkvision 60 ft., passive Perception 11 

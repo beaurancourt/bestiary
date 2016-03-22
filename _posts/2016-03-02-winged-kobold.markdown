@@ -14,7 +14,7 @@ tags: [small, humanoid, cr1/4]
 **Speed** 30 ft., fly 30 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|: ----- :|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 7 (-2) | 16 (+3) | 9 (-1) | 8 (-1) | 7 (-2) | 8 (-1) |
 
 **Senses** darkvision 60 ft., passive Perception 8
