@@ -2,7 +2,7 @@
 layout: post
 title: "Dretch"
 date: 2016-02-29
-tags: [small, fiend, cr1/4]
+tags: [small, fiend, demon, cr1/4]
 ---
 
 **Small fiend (demon), chaotic evil**

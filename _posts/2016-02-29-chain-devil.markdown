@@ -2,7 +2,7 @@
 layout: post
 title: "Chain Devil"
 date: 2016-02-29
-tags: [medium, fiend, cr8]
+tags: [medium, fiend, devil, cr8]
 ---
 
 **Medium fiend (devil), lawful evil**

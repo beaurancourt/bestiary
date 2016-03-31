@@ -2,7 +2,7 @@
 layout: post
 title: "Lemure"
 date: 2016-02-29
-tags: [medium, fiend, cr0]
+tags: [medium, fiend, devil, cr0]
 ---
 
 **Medium fiend (devil), lawful evil**

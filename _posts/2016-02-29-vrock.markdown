@@ -2,7 +2,7 @@
 layout: post
 title: "Vrock"
 date: 2016-02-29
-tags: [large, fiend, cr6]
+tags: [large, fiend, demon, cr6]
 ---
 
 **Large fiend (demon), chaotic evil**

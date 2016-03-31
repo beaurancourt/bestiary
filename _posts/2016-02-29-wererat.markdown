@@ -2,7 +2,7 @@
 layout: post
 title: "Wererat"
 date: 2016-02-29
-tags: [medium, humanoid, cr2]
+tags: [medium, humanoid, human, shapechanger, cr2]
 ---
 
 **Medium humanoid (human, shapechanger), lawful evil**

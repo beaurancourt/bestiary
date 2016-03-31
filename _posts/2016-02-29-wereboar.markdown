@@ -2,7 +2,7 @@
 layout: post
 title: "Wereboar"
 date: 2016-02-29
-tags: [medium, humanoid, cr4]
+tags: [medium, humanoid, human, shapechanger, cr4]
 ---
 
 **Medium humanoid (human, shapechanger), neutral evil**

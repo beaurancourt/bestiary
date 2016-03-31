@@ -27,8 +27,10 @@ tags: [small, plant, cr0]
 
 **Challenge** 0 (10 XP)
 
- False Appearance. While the shrub remains motionless, it is indistinguishable from a normal shrub. 
+***False Appearance.*** While the shrub remains motionless, it is indistinguishable from a normal shrub. 
 
 **Actions** 
 
-Rake. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 − 1) slashing damage. An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic.
+***Rake.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 − 1) slashing damage. 
+
+An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic.

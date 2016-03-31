@@ -2,7 +2,7 @@
 layout: post
 title: "Werewolf"
 date: 2016-02-29
-tags: [medium, humanoid, cr3]
+tags: [medium, humanoid, human, shapechanger, cr3]
 ---
 
 **Medium humanoid (human, shapechanger), chaotic evil**

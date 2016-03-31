@@ -2,7 +2,7 @@
 layout: post
 title: "Bone Devil"
 date: 2016-02-29
-tags: [large, fiend, cr9]
+tags: [large, fiend, devil, cr9]
 ---
 
 **Large fiend (devil), lawful evil**
@@ -33,8 +33,14 @@ tags: [large, fiend, cr9]
 
 **Challenge** 9 (5,000 XP)
 
- Devil’s Sight. Magical darkness doesn’t impede the devil’s darkvision. Magic Resistance. The devil has advantage on saving throws against spells and other magical effects. 
+***Devil’s Sight.*** Magical darkness doesn’t impede the devil’s darkvision. 
+
+***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects. 
 
 **Actions** 
 
-Multiattack. The devil makes three attacks: two with its claws and one with its sting. Claw. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) slashing damage. Sting. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Multiattack.*** The devil makes three attacks: two with its claws and one with its sting. 
+
+***Claw.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) slashing damage. 
+
+***Sting.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

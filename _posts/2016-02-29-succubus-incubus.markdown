@@ -2,7 +2,7 @@
 layout: post
 title: "Succubus/Incubus"
 date: 2016-02-29
-tags: [medium, fiend, cr4]
+tags: [medium, fiend, shapechanger, cr4]
 ---
 
 **Medium fiend (shapechanger), neutral evil**

@@ -2,7 +2,7 @@
 layout: post
 title: "Ice Devil"
 date: 2016-02-29
-tags: [large, fiend, cr14]
+tags: [large, fiend, devil, cr14]
 ---
 
 **Large fiend (devil), lawful evil**
