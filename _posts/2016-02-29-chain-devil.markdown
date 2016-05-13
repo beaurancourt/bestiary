@@ -45,4 +45,4 @@ tags: [medium, fiend, devil, cr8]
 
 **Reactions**
 
-***Unnerving Mask.*** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature’s departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14278 Wisdom saving throw or be frightened until the end of its turn.
+***Unnerving Mask.*** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature’s departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
