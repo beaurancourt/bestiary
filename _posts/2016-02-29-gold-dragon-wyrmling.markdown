@@ -21,7 +21,7 @@ tags: [medium, dragon, cr3]
 
 **Skills** Perception +4, Stealth +4 
 
-**Damage Immunities** fire303 
+**Damage Immunities** fire
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14 
 
