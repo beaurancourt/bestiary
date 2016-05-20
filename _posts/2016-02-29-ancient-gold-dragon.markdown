@@ -57,6 +57,8 @@ tags: [gargantuan, dragon, cr24]
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn. 
 
-***Detect.*** The dragon makes a Wisdom (Perception) check. Tail Attack. The dragon makes a tail attack. 
+***Detect.*** The dragon makes a Wisdom (Perception) check. 
+
+***Tail Attack.*** The dragon makes a tail attack. 
 
 ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
