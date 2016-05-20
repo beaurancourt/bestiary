@@ -29,7 +29,7 @@ tags: [huge, dragon, cr14]
 
 **Challenge** 14 (11,500 XP)
 
-***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.299 
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
 **Actions** 
 
