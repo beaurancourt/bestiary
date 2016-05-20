@@ -55,7 +55,7 @@ tags: [gargantuan, dragon, cr22]
 
 **Legendary Actions**
 
-The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action296 option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn. 
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn. 
 
 ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 
