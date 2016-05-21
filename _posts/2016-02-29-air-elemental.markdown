@@ -11,7 +11,7 @@ tags: [large, elemental, cr5]
 
 **Hit Points** 90 (12d10 + 24)
 
-**Speed** 0 ft., fly 90 ft. (hover)308
+**Speed** 0 ft., fly 90 ft. (hover)
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
