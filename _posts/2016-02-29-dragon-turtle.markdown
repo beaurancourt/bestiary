@@ -21,7 +21,7 @@ tags: [gargantuan, dragon, cr17]
 
 **Damage Resistances** fire 
 
-**Senses** darkvision 120 ft., passive Perception 11306 
+**Senses** darkvision 120 ft., passive Perception 11
 
 **Languages** Aquan, Draconic 
 
