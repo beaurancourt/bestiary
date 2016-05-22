@@ -29,7 +29,7 @@ tags: [large, dragon, cr7]
 
 **Challenge** 7 (2,900 XP)
 
-***Amphibious.*** The dragon can breathe air and water.284 
+***Amphibious.*** The dragon can breathe air and water.
 
 **Actions** 
 

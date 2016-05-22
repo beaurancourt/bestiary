@@ -23,7 +23,7 @@ tags: [large, dragon, cr9]
 
 **Damage Immunities** lightning 
 
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19286 
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
 
 **Languages** Common, Draconic 
 

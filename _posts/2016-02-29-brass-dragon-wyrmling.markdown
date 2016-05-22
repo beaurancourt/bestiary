@@ -23,7 +23,7 @@ tags: [medium, dragon, cr1]
 
 **Damage Immunities** fire 
 
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14295 
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 
 **Languages** Draconic 
 

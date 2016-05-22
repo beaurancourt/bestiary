@@ -11,7 +11,7 @@ tags: [large, dragon, cr8]
 
 **Hit Points** 136 (16d10 + 48)
 
-**Speed** 40 ft., fly 80 ft., swim 40 ft.288
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
