@@ -29,8 +29,12 @@ tags: [medium, elemental, cr2]
 
 **Challenge** 2 (450 XP)
 
- False Appearance. While the gargoyle remains motionless, it is indistinguishable from an inanimate statue. 
+***False Appearance.*** While the gargoyle remains motionless, it is indistinguishable from an inanimate statue. 
 
 **Actions** 
 
-Multiattack. The gargoyle makes two attacks: one with its bite and one with its claws. Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage. Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+***Multiattack.*** The gargoyle makes two attacks: one with its bite and one with its claws. 
+
+***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage. 
+
+***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
