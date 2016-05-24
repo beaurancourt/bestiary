@@ -17,7 +17,7 @@ tags: [medium, humanoid, cr5]
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
-***Saving Throws*** Str +5, Con +4 
+**Saving Throws** Str +5, Con +4 
 
 **Skills** Athletics +5, Perception +2 
 
