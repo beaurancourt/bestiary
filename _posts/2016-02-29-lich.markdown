@@ -43,7 +43,7 @@ tags: [medium, undead, cr21]
 
 *1st level (4 slots):* detect magic, magic missile, shield, thunderwave 
 
-*2nd level (3 slots):* acid arrow, detect thoughts, invisibility, mirror image328 
+*2nd level (3 slots):* acid arrow, detect thoughts, invisibility, mirror image
 
 *3rd level (3 slots):* animate dead, counterspell, dispel magic, fireball 
 
