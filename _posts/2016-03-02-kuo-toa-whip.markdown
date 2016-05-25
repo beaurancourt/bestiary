@@ -27,9 +27,7 @@ tags: [medium, humanoid, cr1]
 
 ***Amphibious.*** The kuo-toa can breathe air and water.
 
-***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the
-
-***Ethereal Plane.*** It can pinpoint such a creature that is moving.
+***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.
 
 ***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.
 
