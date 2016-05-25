@@ -23,7 +23,7 @@ tags: [medium, humanoid, human, shapechanger, cr3]
 
 **Senses** passive Perception 14 
 
-**Languages** Common (can’t speak in wolf form)331 
+**Languages** Common (can’t speak in wolf form)
 
 **Challenge** 3 (700 XP)
 
