@@ -21,7 +21,7 @@ tags: [small, elemental, cr1/4]
 
 **Condition Immunities** poisoned 
 
-**Senses** darkvision 60 ft., passive Perception 10334 
+**Senses** darkvision 60 ft., passive Perception 10
 
 **Languages** Aquan, Ignan 
 
