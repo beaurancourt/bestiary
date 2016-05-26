@@ -21,7 +21,7 @@ tags: [large, monstrosity, cr2]
 
 **Languages** Abyssal, Aquan 
 
-**Challenge** 2 (450 XP) Amphibious. The merrow can breathe air and water. 
+**Challenge** 2 (450 XP) 
 
 ***Amphibious.*** The merrow can breathe air and water. 
 
