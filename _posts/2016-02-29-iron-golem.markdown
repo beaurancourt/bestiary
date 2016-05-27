@@ -21,7 +21,7 @@ tags: [large, construct, cr16]
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned 
 
-**Senses** darkvision 120 ft., passive Perception 10319 
+**Senses** darkvision 120 ft., passive Perception 10
 
 **Languages** understands the languages of its creator but can’t speak 
 

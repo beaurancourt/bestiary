@@ -23,11 +23,13 @@ tags: [medium, humanoid, human, shapechanger, cr3]
 
 **Senses** passive Perception 14 
 
-**Languages** Common (can’t speak in wolf form)331 
+**Languages** Common (can’t speak in wolf form)
 
 **Challenge** 3 (700 XP)
 
-***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies. Keen Hearing and Smell. The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
+***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies. 
+
+***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
 
 **Actions** 
 

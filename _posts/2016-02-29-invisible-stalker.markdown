@@ -31,8 +31,12 @@ tags: [medium, elemental, cr6]
 
 **Challenge** 6 (2,300 XP)
 
-Invisibility. The stalker is invisible. Faultless Tracker. The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner. 
+***Invisibility.*** The stalker is invisible. 
+
+***Faultless Tracker.*** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner. 
 
 **Actions**
 
-Multiattack. The stalker makes two slam attacks. Slam. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
+***Multiattack.*** The stalker makes two slam attacks. 
+
+***Slam.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
