@@ -25,4 +25,4 @@ tags: [large, beast, cr1/8]
 
 **Actions**
 
-Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
