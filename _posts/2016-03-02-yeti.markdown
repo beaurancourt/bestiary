@@ -30,7 +30,8 @@ tags: [large, monstrosity, cr3]
 ***Fear of Fire.*** If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
 
 ***Keen Smell.*** The yeti has advantage on Wisdom (Perception) checks that rely on smell.
-Snow Camouflage. The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
+
+***Snow Camouflage.*** The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 
 **Actions**
 
