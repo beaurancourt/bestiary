@@ -30,7 +30,8 @@ tags: [large, elemental, cr3]
 **Challenge** 3 (700 XP)
 
 ***Invisible in Water.*** The water weird is invisible while fully immersed in water.
-Water Bound. The water weird dies if it leaves the water to which it is bound or if that water is destroyed.
+
+***Water Bound.*** The water weird dies if it leaves the water to which it is bound or if that water is destroyed.
 
 **Actions**
 
