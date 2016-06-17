@@ -23,8 +23,10 @@ tags: [tiny, beast, cr1/8]
 
 **Challenge** 1/8 (25 XP)
 
- Flyby. The snake doesn’t provoke opportunity attacks when it flies out of an enemy’s reach. 
+***Flyby.*** The snake doesn’t provoke opportunity attacks when it flies out of an enemy’s reach. 
 
 **Actions** 
 
-Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 7 (3d4) poison damage. A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.
+***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 7 (3d4) poison damage. 
+
+A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.
