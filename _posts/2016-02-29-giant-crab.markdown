@@ -25,8 +25,8 @@ tags: [medium, beast, cr1/8]
 
 **Challenge** 1/8 (25 XP)
 
- Amphibious. The crab can breathe air and water. 
+***Amphibious.*** The crab can breathe air and water. 
 
 **Actions** 
 
-Claw. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+***Claw.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
