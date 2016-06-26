@@ -21,7 +21,7 @@ tags: [medium, beast, cr1/2]
 
 **Senses** passive Perception 13 
 
-**Languages** —362 
+**Languages** —
 
 **Challenge** 1/2 (100 XP)
 

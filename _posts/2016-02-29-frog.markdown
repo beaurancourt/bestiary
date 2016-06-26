@@ -25,4 +25,8 @@ tags: [tiny, beast, cr0]
 
 **Challenge** 0 (0 XP)
 
- Amphibious. The frog can breathe air and water. Standing Leap. The frog’s long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start. A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog’s statistics can also be used to represent a toad.
+***Amphibious.*** The frog can breathe air and water. 
+
+***Standing Leap.*** The frog’s long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start. 
+
+A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog’s statistics can also be used to represent a toad.

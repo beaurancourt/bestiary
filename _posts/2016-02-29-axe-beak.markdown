@@ -11,7 +11,7 @@ tags: [large, beast, cr1/4]
 
 **Hit Points** 19 (3d10 + 3)
 
-**Speed** 50 ft.361
+**Speed** 50 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|

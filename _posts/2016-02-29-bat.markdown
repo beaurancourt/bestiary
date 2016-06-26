@@ -23,7 +23,9 @@ tags: [tiny, beast, cr0]
 
 **Challenge** 0 (10 XP)
 
-***Echolocation.*** The bat can’t use its blindsight while deafened. Keen Hearing. The bat has advantage on Wisdom (Perception) checks that rely on hearing. 
+***Echolocation.*** The bat can’t use its blindsight while deafened. 
+
+***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing. 
 
 **Actions** 
 

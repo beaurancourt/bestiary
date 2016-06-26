@@ -19,7 +19,9 @@ tags: [medium, undead, cr15]
 
 **Saving Throws** Con +8, Int +5, Wis +9, Cha +8 
 
-**Skills** History +5, Religion +5 Damage Vulnerabilities fire 
+**Skills** History +5, Religion +5 
+
+**Damage Vulnerabilities** fire 
 
 **Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks 
 
