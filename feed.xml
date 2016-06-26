@@ -1,30 +1,765 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Bestiary</title>
+    <description>A searchable D&amp;D 5e creature list.</description>
+    <link>http://chisaipete.github.io/bestiary/</link>
+    <atom:link href="http://chisaipete.github.io/bestiary/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 26 Jun 2016 09:43:55 -0700</pubDate>
+    <lastBuildDate>Sun, 26 Jun 2016 09:43:55 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Yuan-ti Pureblood</title>
+        <description>&lt;p&gt;&lt;strong&gt;Medium humanoid (yuan-ti), neutral evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 11&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 40 (9d8)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Deception +6, Perception +3, Stealth +3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; poisoned&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 60 ft., passive Perception 13&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Abyssal, Common, Draconic&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 1 (200 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Innate Spellcasting.&lt;/em&gt;&lt;/strong&gt; The yuan-ti’s spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:
+At will: animal friendship (snakes only)
+3/day each: poison spray, suggestion&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack.&lt;/em&gt;&lt;/strong&gt; The yuan-ti makes two melee attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Scimitar.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shortbow.&lt;/em&gt;&lt;/strong&gt; Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/yuan-ti-pureblood</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/yuan-ti-pureblood</guid>
+        
+        <category>medium</category>
+        
+        <category>humanoid</category>
+        
+        <category>cr1</category>
+        
+        
+        <category>creatures</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Yuan-ti Malison</title>
+        <description>&lt;p&gt;&lt;strong&gt;Medium monstrosity (shapechanger, yuan-ti), neutral evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 12&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 66 (12d8 + 12)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Deception +5, Stealth +4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; poisoned&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 60 ft., passive Perception 11&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Abyssal, Common, Draconic&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 3 (700 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shapechanger.&lt;/em&gt;&lt;/strong&gt; The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It doesn’t change form if it dies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Innate Spellcasting (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti’s innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
+At will: animal friendship (snakes only)
+3/day: suggestion&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Malison Type.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has one of the following types:
+Type 1: Human body with snake head
+Type 2: Human head and body with snakes for arms
+Type 3: Human head and upper body with a serpentine lower body instead of legs&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions for Type 1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti makes two ranged attacks or two melee attacks, but can use its bite only once.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bite.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Scimitar (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Longbow (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions for Type 2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti makes two bite attacks using its snake arms.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bite.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
+Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions for Type 3&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti makes two ranged attacks or two melee attacks, but can constrict only once.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bite (Snake Form Only).&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Constrict.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the yuan-ti can’t constrict another target.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Scimitar (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Longbow (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/yuan-ti-malison</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/yuan-ti-malison</guid>
+        
+        <category>medium</category>
+        
+        <category>monstrosity</category>
+        
+        <category>cr3</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Yuan-ti Abomination</title>
+        <description>&lt;p&gt;&lt;strong&gt;Large monstrosity (shapechanger, yuan-ti), neutral evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 15 (natural armor)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 127 (15d10 + 45)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 40 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;19 (+4)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;17 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;17 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18 (+4)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Perception +5, Stealth +6&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; poisoned&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 60 ft., passive Perception 15&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Abyssal, Common, Draconic&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 7 (2,900 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shapechanger.&lt;/em&gt;&lt;/strong&gt; The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It doesn’t change form if it dies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Innate Spellcasting (Abomination Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti’s innate spellcasting ability is Charisma (spell save DC 15). The yuan-ti can innately cast the following spells, requiring no material components:
+At will: animal friendship (snakes only)
+3/day: suggestion
+1/day: fear&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack (Abomination Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti makes two ranged attacks or three melee attacks, but can use its bite and constrict attacks only once each.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bite.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Constrict.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the yuan-ti can’t constrict another target.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Scimitar (Abomination Form Only).&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Longbow (Abomination Form Only).&lt;/em&gt;&lt;/strong&gt; Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 12 (2d8 + 3) piercing damage plus 10 (3d6) poison damage.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/yuan-ti-abomination</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/yuan-ti-abomination</guid>
+        
+        <category>large</category>
+        
+        <category>monstrosity</category>
+        
+        <category>cr7</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Yeti</title>
+        <description>&lt;p&gt;&lt;strong&gt;Large monstrosity, chaotic evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 12 (natural armor)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 51 (6d10 + 18)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 40 ft., climb 40 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18 (+4)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8 (-1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7 (-2)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Perception +3, Stealth +3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; cold&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 60 ft., passive Perception 13&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Yeti&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 3 (700 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Fear of Fire.&lt;/em&gt;&lt;/strong&gt; If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Keen Smell.&lt;/em&gt;&lt;/strong&gt; The yeti has advantage on Wisdom (Perception) checks that rely on smell.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Snow Camouflage.&lt;/em&gt;&lt;/strong&gt; The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack.&lt;/em&gt;&lt;/strong&gt; The yeti can use its Chilling Gaze and makes two claw attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Claw.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Chilling Gaze&lt;/em&gt;&lt;/strong&gt;. The yeti targets one creature it can see within 30 feet of it. If the target can see the yeti, the target must succeed on a DC 13 Constitution saving throw against this magic or take 10 (3d6) cold damage and then be paralyzed for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target’s saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.&lt;/p&gt;
+
+&lt;p&gt;Yeti are hulking monstrosities that stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/yeti</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/yeti</guid>
+        
+        <category>large</category>
+        
+        <category>monstrosity</category>
+        
+        <category>cr3</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Winged Kobold</title>
+        <description>&lt;p&gt;&lt;strong&gt;Small humanoid (kobold), lawful evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 13&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 7 (3d6 - 3)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft., fly 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7 (-2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9 (-1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8 (-1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7 (-2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8 (-1)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 60 ft., passive Perception 8&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Common, Draconic&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 1/4 (50 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sunlight Sensitivity.&lt;/em&gt;&lt;/strong&gt; While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pack Tactics.&lt;/em&gt;&lt;/strong&gt; The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 feet of the creature and the ally isn’t incapacitated.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Dagger.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Dropped Rock.&lt;/em&gt;&lt;/strong&gt; Ranged Weapon Attack: +5 to hit, one target directly below the kobold. Hit: 6 (1d6 + 3) bludgeoning
+damage.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/winged-kobold</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/winged-kobold</guid>
+        
+        <category>small</category>
+        
+        <category>humanoid</category>
+        
+        <category>cr1/4</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Water Weird</title>
+        <description>&lt;p&gt;&lt;strong&gt;Large elemental, neutral&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 13&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 58 (9d10 + 9)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 0 ft., swim 60 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;17 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Resistances&lt;/strong&gt; fire; bludgeoning, piercing, and slashing from nonmagical weapons&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; exhaustion, grappled, paralyzed, poisoned, restrained, prone, unconscious&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; blindsight 30 ft., passive Perception 10&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; understands Aquan but doesn’t speak&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 3 (700 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Invisible in Water.&lt;/em&gt;&lt;/strong&gt; The water weird is invisible while fully immersed in water.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Water Bound.&lt;/em&gt;&lt;/strong&gt; The water weird dies if it leaves the water to which it is bound or if that water is destroyed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Constrict.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is restrained, the water weird tries to drown it, and the water weird can’t constrict another target.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/water-weird</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/water-weird</guid>
+        
+        <category>large</category>
+        
+        <category>elemental</category>
+        
+        <category>cr3</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Umber Hulk</title>
+        <description>&lt;p&gt;&lt;strong&gt;Large monstrosity, chaotic evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 18 (natural armor)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 93 (11d10 + 33)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft., burrow 20 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20 (+5)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9 (-1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 120 ft., tremorsense 60 ft., passive Perception 10&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Umber Hulk&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 5 (1,800 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Confusing Gaze.&lt;/em&gt;&lt;/strong&gt; When a creature starts its turn within 30 feet of the umber hulk and is able to see the umber hulk’s eyes, the umber hulk can magically force it to make a DC 15 Charisma saving throw, unless the umber hulk is incapacitated.
+On a failed saving throw, the creature can’t take reactions until the start of its next turn and rolls a d8 to determine what it does during that turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action but uses all its movement to move in a random direction. On a 7 or 8, the creature makes one melee attack against a random creature, or it does nothing if no creature is within reach.
+Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can’t see the umber hulk until the start of its next turn, when it can avert its eyes again. If the creature looks at the umber hulk in the meantime, it must immediately make the save.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Tunneler.&lt;/em&gt;&lt;/strong&gt; The umber hulk can burrow through solid rock at half its burrowing speed and leaves a 5 foot-wide, 8-foot-high tunnel in its wake.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack.&lt;/em&gt;&lt;/strong&gt; The umber hulk makes three attacks: two with its claws and one with its mandibles.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Claw.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Mandibles.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/umber-hulk</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/umber-hulk</guid>
+        
+        <category>large</category>
+        
+        <category>monstrosity</category>
+        
+        <category>cr5</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Twig Blight</title>
+        <description>&lt;p&gt;&lt;strong&gt;Small plant, neutral evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 13 (natural armor)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 4 (1d6 + 1)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 20 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6 (-2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4 (-3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8 (-1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3 (-4)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Stealth +3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Vulnerabilities&lt;/strong&gt; fire&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; blinded, deafened&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; blindsight 60 ft. (blind beyond this radius),
+passive Perception 9&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; understands Common but can’t speak&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 1/8 (25 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;False Appearance.&lt;/em&gt;&lt;/strong&gt; While the blight remains motionless, it is indistinguishable from a dead shrub.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Claws.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.&lt;/p&gt;
+
+&lt;p&gt;A twig blight is an awakened plant that resembles a woody shrub that can pull its roots free of the ground. Its branches twist together to form a humanoid-looking body with a head and limbs.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/twig-blight</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/twig-blight</guid>
+        
+        <category>small</category>
+        
+        <category>plant</category>
+        
+        <category>cr1/8</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Troglodyte</title>
+        <description>&lt;p&gt;&lt;strong&gt;Medium humanoid (troglodyte), chaotic evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 11 (natural armor)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 13 (2d8 + 4)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6 (-2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6 (-2)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Stealth +2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 60 ft., passive Perception 10&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Troglodyte&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 1/4 (50 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Chameleon Skin.&lt;/em&gt;&lt;/strong&gt; The troglodyte has advantage on Dexterity (Stealth) checks made to hide.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Stench.&lt;/em&gt;&lt;/strong&gt; Any creature other than a troglodyte that starts its turn within 5 feet of the troglodyte must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature’s next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sunlight Sensitivity.&lt;/em&gt;&lt;/strong&gt; While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack.&lt;/em&gt;&lt;/strong&gt; The troglodyte makes three attacks: one with its bite and two with its claws.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bite.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Claw.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/troglodyte</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/troglodyte</guid>
+        
+        <category>medium</category>
+        
+        <category>humanoid</category>
+        
+        <category>cr1/4</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Thurl Merosska</title>
+        <description>&lt;p&gt;&lt;strong&gt;Medium humanoid (human), lawful evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 16 (breastplate)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 71 (11d8 + 21)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (+0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15 (+2)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Animal Handling +2, Athletics +5, Deception +4,
+Persuasion +4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; passive Perception 10&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Auran, Common&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 3 (700 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Spellcasting.&lt;/em&gt;&lt;/strong&gt; Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Thurl knows the following sorcerer spells (an asterisked spell appears in this appendix):&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cantrips (at will):&lt;/em&gt; friends, gust,* light, message, ray of frost&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;1st level (4 slots):&lt;/em&gt;expeditious retreat, feather fall, jump&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;2nd level (3 slots):&lt;/em&gt; levitate, misty step&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;3rd level (2 slots):&lt;/em&gt; haste&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack.&lt;/em&gt;&lt;/strong&gt; Thurl makes two melee attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Greatsword.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lance.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12 + 3) piercing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reactions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Parry.&lt;/em&gt;&lt;/strong&gt; Thurl adds 2 to his AC against one melee attack that would hit him. To do so, Thurl must see the attacker and be wielding a melee weapon.&lt;/p&gt;
+
+&lt;p&gt;Thurl Merosska is the leader of the Feathergale Knights. Once a griffon rider of Waterdeep, Thurl retired after a storm nearly claimed his life. Obsessed with his neardeath experience, Thurl learned of Elemental Evil and promised to serve it in exchange for power.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/thurl-merosska</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/thurl-merosska</guid>
+        
+        <category>medium</category>
+        
+        <category>humanoid</category>
+        
+        <category>cr3</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
   </channel>
 </rss>
